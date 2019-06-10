@@ -1,4 +1,4 @@
-* Towers of Hanoi
+- Towers of Hanoi
 
 Towers of Hanoi game that uses THREE.js to render a 3d visualization of the puzzle in the browser. React is also used for state logic and UI.
 
